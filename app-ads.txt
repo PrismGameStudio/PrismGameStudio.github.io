@@ -1,7 +1,7 @@
 #
 AdMob
 #
-google.com, pub-8416924969082952, DIRECT, f08c47fec0942fa0
+google.com, pub-4971595723310427, DIRECT, f08c47fec0942fa0
 #
 UnityAds
 #
@@ -314,3 +314,4 @@ Pangle
 #
 pangleglobal.com, 5033850, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
+
